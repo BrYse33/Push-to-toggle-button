@@ -10,7 +10,7 @@ void setup() {
 Serial.begin(9600);
 pinMode(button, INPUT);
 Serial.println("");
-Serial.println("In the next lines will be the state of the mot**r f***ing ''toggle'' button");
+Serial.println("In the next lines will be the state of the ''toggle'' button");
 }
 
 void loop() {
